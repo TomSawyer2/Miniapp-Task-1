@@ -1,5 +1,5 @@
 <view class="content">
-  <image class='background' src="background.jfif" mode="aspectFill"></image>
+  <image class='background' src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607774380314&di=57edf283efb3d377d5123de6ee368f2d&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F51587e81daab4ff82dfed9fab5780206e436f332549b4-3ADuUX_fw658" mode="aspectFill"></image>
   <link rel="stylesheet" type="text/css" href="home.wxss"/>
 </view>
 
